@@ -2,6 +2,7 @@
 developing a php web bot app for personal learning purposes
 
 php_bot basic to-do
+
 1. [no bot needed- login details] basic social media account details setup. (could be done later)
 
 2. development of simple reader and writer bot, with flavour text and no-spam timings, probably won't link to content DB.
